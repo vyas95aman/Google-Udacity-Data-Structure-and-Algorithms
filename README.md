@@ -13,8 +13,8 @@ These are completed exercises as part of the Google Udacity course: Introduction
 	- assumes data is sorted
 	- O(log(n)) 
 - Bubble Sort
-		- O(n^2) runtime, because have to iterate through the list n times
-		- Compares left and right elements, moving higher value to end of list
+	- O(n^2) runtime, because have to iterate through the list n times
+	- Compares left and right elements, moving higher value to end of list
 - Merge Sort
 	- Divide and conquer algorithm
 	- Recursively splits the list in half and then sorts the elements
